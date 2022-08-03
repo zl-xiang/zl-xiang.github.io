@@ -12,8 +12,9 @@ I believe establishing provable correspondences between **logical representation
 
 
 ------
+title: "Tweets"
   <div>
-        <a class="twitter-timeline" data-width="350" data-height="500" href="https://twitter.com/cardiff_krr">
+        <a class="twitter-timeline" data-width="350" data-height="500" href="https://twitter.com/Mexicer">
         Tweets by cardiff_krr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 ------
