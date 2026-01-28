@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-I believe establishing provable correspondences between **logical representations (reasoning)** and **neural models (learning)** could be an effective approach to address  **human-level intelligence**, therefore I am keen to explore both **Knowledge Representation and Reasoning** and **Machine Learning**, and their **integration**, in particular, **Neuro-symbolic Reasoning**, **Knowledge Representation and Reasoning**, **Logic Programming** and **Representation Learning**, **Knowledge-based NLP**.
+I believe intelligent systems should be rooted in sound theory and developed through rigorous methods, in order to serve as controllable and responsible technology. I am keen to deepen my theoretical understanding of the integration of **Learning and Reasoning**, and to translate this understanding into practical solutions. In particular, I am interested in logic-based approaches to learning, learning structured representations, and principled handling of imperfect data and data quality management in intelligent systems.
 
-Tweets
-======
-------
-  <div>
-        <a class="twitter-timeline" data-width="350" data-height="500" href="https://twitter.com/Mexicer">
-        Tweets by cardiff_krr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </div>
-------
-Please refer to my [**CV**](https://zl-xiang.github.io/files/Zhiliang_CV.pdf) for more details.
+
+Please see my [**CV**](https://zl-xiang.github.io/files/Zhiliang_CV.pdf) for more details.
